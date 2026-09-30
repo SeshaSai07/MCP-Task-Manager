@@ -97,7 +97,7 @@ The project is deployed on Render with Supabase PostgreSQL:
 ## GitHub: 
 
 ```powershell
-   https://github.com/Venkat5674/task-mcp-server
+   https://github.com/SeshaSai07/task-mcp-server
  ```
 
 ## Live health check: 
